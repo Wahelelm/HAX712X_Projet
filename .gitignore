@@ -22,3 +22,5 @@ __pycache__/
 
 # Fichiers de configuration personnels
 .env
+# Fichiers pdf
+*.pdf
