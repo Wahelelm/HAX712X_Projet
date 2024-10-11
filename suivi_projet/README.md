@@ -6,7 +6,7 @@
 
 ## Ici, on va décrire les données que l'on a utilisé
 
-## Peut etre les plannings (à voir...)
+## Peut etre les plannings (à voir....)
 
 ```{mermaid}
     gantt
